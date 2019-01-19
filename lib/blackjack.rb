@@ -53,6 +53,7 @@ end
 
 def invalid_command
   # code invalid_command here
+  puts "Invalid command. Please try again"
 end
 
 #####################################################
